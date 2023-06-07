@@ -3,11 +3,9 @@
 - 🔭 I’m currently working on my personnal web site and on various (little) projects
 - 🌱 I’m currently learning JavaScript and React to consolidate my skills
 - 📫 How to reach me: https://www.linkedin.com/in/margot-salsmann/ 
-- Fun fact: i'm Doctor in Language Sciences
-
+- ⚡ Fun fact: i'm Doctor in Language Sciences
 
 **Stack technique**
-
 <ul>
   <li> HTML <img src="https://github.com/Zeiah/Zeiah/icons8-html-48.png"> </li>
   <li> CSS <img src="https://github.com/Zeiah/Zeiah/icons8-css-48.png"/> </li>
