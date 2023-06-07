@@ -15,7 +15,7 @@
 * OpenClassrooms Projet 5: Piiquante > Construction d'une API sécurisée pour un site d'avis gastonomiques (Node.js, Express.js, MongoDB)
 * OpenClassrooms Projet 5: Kanap > Implémenter les fonctionnalités d'un site de e-commerce de manière dynamique (JavaScript)
 * OpenClassrooms Projet 4: La Panthère > Optimisation d'un site de web design (SEO)
-  *📍 <span> Voir Page Gihub de </span> <a href="https://zeiah.github.io/Zeiah_OC_P4_LaPanthere_avant_github.io/index.html"> La Panthère avant</a> <a href="https://zeiah.github.io/Zeiah_OC_P4_LaPanthere_optimisation_github.io/"> après optimisation </a> 
+  *📍 <span> Voir Page Gihub de </span> <a href="https://zeiah.github.io/Zeiah_OC_P4_LaPanthere_avant_github.io/index.html"> La Panthère avant</a> <span> et </span> <a href="https://zeiah.github.io/Zeiah_OC_P4_LaPanthere_optimisation_github.io/"> après optimisation</a> 
 * OpenClassrooms Projet 3: OhMyFood! > Intégration de la maquette d'un site répertoriant les menus de restaurants (html, css, Sass) 
   *📍 <span> Voir Page Gihub de </span> <a href="https://zeiah.github.io/Zeiah_OC_P3_Ohmyfood_github.io/index.html">Oh my Food!</a>
 * OpenClassrooms Projet 2: Booki > Intégration de la maquette d'un site d'hébergements et d'activités (html, css)
