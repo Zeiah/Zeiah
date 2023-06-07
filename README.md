@@ -1,4 +1,4 @@
-### Hi there 👋 🤖
+### Hi there 👋 
 
 - 🔭 I’m currently working on my personnal web site and on various (little) projects
 - 🌱 I’m currently learning JavaScript and React and consolidating my skills
@@ -8,7 +8,7 @@
 **🕸 Stack technique 🕸** :
 HTML <img src="https://github.com/Zeiah/icons8-html-48.png"> /  CSS <img src="https://github.com/Zeiah/Zeiah/icons8-css-48.png"/> / Sass <img src="https://github.com/Zeiah/Zeiah/icons8-sass-48.png"/> / JavaScript <img src="https://github.com/Zeiah/Zeiah/icons8-javascript-48.png"/> / React.js <img src="https://github.com/Zeiah/Zeiah/icons8-react-js-48.png"/> / Node.js <img src="https://github.com/Zeiah/Zeiah/icons8-node-js-48.png"/> / Express.js <img src="https://github.com/Zeiah/Zeiah/icons8-express-js-48.png"/> / MongoDB <img src="https://github.com/Zeiah/Zeiah/icons8-mongodb-48.png"/> </li>
 
-### Mes projets
+### Mes projets 🤖
 * PortFolio : mon site web personnel
 * Bac-à-sable : jeu du pendu > Les mots invariables du Ce2 (JavaScript)
 * OpenClassrooms Projet 6: Kasa > Construction d'une application de location immobilière (React)
