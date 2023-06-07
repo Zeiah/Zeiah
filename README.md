@@ -1,22 +1,14 @@
 ### Hi there 👋 🤖
 
 - 🔭 I’m currently working on my personnal web site and on various (little) projects
-- 🌱 I’m currently learning JavaScript and React to consolidate my skills
+- 🌱 I’m currently learning JavaScript and React and consolidating my skills
 - 📫 How to reach me: https://www.linkedin.com/in/margot-salsmann/ 
 - ⚡ Fun fact: i'm Doctor in Language Sciences
 
 **Stack technique**
-<ul>
-  <li> HTML <img src="https://github.com/Zeiah/icons8-html-48.png"> </li>
-  <li> CSS <img src="https://github.com/Zeiah/Zeiah/icons8-css-48.png"/> </li>
-  <li> Sass <img src="https://github.com/Zeiah/Zeiah/icons8-sass-48.png"/> </li>
-  <li> JavaScript <img src="https://github.com/Zeiah/Zeiah/icons8-javascript-48.png"/> </li>
-  <li> React.js <img src="https://github.com/Zeiah/Zeiah/icons8-react-js-48.png"/> </li>
-  <li> Node.js <img src="https://github.com/Zeiah/Zeiah/icons8-node-js-48.png"/> </li>
-  <li> Express.js <img src="https://github.com/Zeiah/Zeiah/icons8-express-js-48.png"/> </li>
-  <li> MongoDB <img src="https://github.com/Zeiah/Zeiah/icons8-mongodb-48.png"/> </li>
-</ul>
-
+🕸 HTML <img src="https://github.com/Zeiah/icons8-html-48.png"> /  CSS <img src="https://github.com/Zeiah/Zeiah/icons8-css-48.png"/> / Sass <img src="https://github.com/Zeiah/Zeiah/icons8-sass-48.png"/>
+🕸 JavaScript <img src="https://github.com/Zeiah/Zeiah/icons8-javascript-48.png"/> / React.js <img src="https://github.com/Zeiah/Zeiah/icons8-react-js-48.png"/> / Node.js <img src="https://github.com/Zeiah/Zeiah/icons8-node-js-48.png"/> / Express.js <img src="https://github.com/Zeiah/Zeiah/icons8-express-js-48.png"/>
+🕸 MongoDB <img src="https://github.com/Zeiah/Zeiah/icons8-mongodb-48.png"/> </li>
 
 **Mes projets**
 * PortFolio : mon site web personnel
