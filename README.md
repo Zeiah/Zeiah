@@ -10,13 +10,13 @@ HTML <img src="https://github.com/Zeiah/icons8-html-48.png"> /  CSS <img src="ht
 
 ### Mes projets
 * PortFolio : mon site web personnel
-* Bac-à-sable : jeu du pendu > Les mots invariables du Ce2
-* OpenClassrooms Projet 6: Kasa > Construction d'une application de location immobilière
-* OpenClassrooms Projet 5: Piiquante > Construction d'une API sécurisée pour un site d'avis gastonomiques
-* OpenClassrooms Projet 5: Kanap > Implémenter les fonctionnalités d'un site de e-commerce de manière dynamique
-* OpenClassrooms Projet 4: La Panthère > Optimisation d'un site de web design
-* OpenClassrooms Projet 3: OhMyFood! > Intégration de la maquette d'un site répertoriant les menus de restaurants
-* OpenClassrooms Projet 2: Booki > Intégration de la maquette d'un site d'hébergements et d'activités
+* Bac-à-sable : jeu du pendu > Les mots invariables du Ce2 (JavaScript)
+* OpenClassrooms Projet 6: Kasa > Construction d'une application de location immobilière (React)
+* OpenClassrooms Projet 5: Piiquante > Construction d'une API sécurisée pour un site d'avis gastonomiques (Express.js)
+* OpenClassrooms Projet 5: Kanap > Implémenter les fonctionnalités d'un site de e-commerce de manière dynamique (JavaScript)
+* OpenClassrooms Projet 4: La Panthère > Optimisation d'un site de web design (SEO)
+* OpenClassrooms Projet 3: OhMyFood! > Intégration de la maquette d'un site répertoriant les menus de restaurants (html, css, Sass)
+* OpenClassrooms Projet 2: Booki > Intégration de la maquette d'un site d'hébergements et d'activités (html, css)
  
 
 
