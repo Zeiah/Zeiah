@@ -5,8 +5,8 @@
 - 📫 How to reach me: https://www.linkedin.com/in/margot-salsmann/ 
 - ⚡ Fun fact: i'm Doctor in Language Sciences
 
-** 🕸 Stack technique** :
-🕸 HTML <img src="https://github.com/Zeiah/icons8-html-48.png"> /  CSS <img src="https://github.com/Zeiah/Zeiah/icons8-css-48.png"/> / Sass <img src="https://github.com/Zeiah/Zeiah/icons8-sass-48.png"/> / JavaScript <img src="https://github.com/Zeiah/Zeiah/icons8-javascript-48.png"/> / React.js <img src="https://github.com/Zeiah/Zeiah/icons8-react-js-48.png"/> / Node.js <img src="https://github.com/Zeiah/Zeiah/icons8-node-js-48.png"/> / Express.js <img src="https://github.com/Zeiah/Zeiah/icons8-express-js-48.png"/> / MongoDB <img src="https://github.com/Zeiah/Zeiah/icons8-mongodb-48.png"/> </li>
+**🕸 Stack technique 🕸** :
+HTML <img src="https://github.com/Zeiah/icons8-html-48.png"> /  CSS <img src="https://github.com/Zeiah/Zeiah/icons8-css-48.png"/> / Sass <img src="https://github.com/Zeiah/Zeiah/icons8-sass-48.png"/> / JavaScript <img src="https://github.com/Zeiah/Zeiah/icons8-javascript-48.png"/> / React.js <img src="https://github.com/Zeiah/Zeiah/icons8-react-js-48.png"/> / Node.js <img src="https://github.com/Zeiah/Zeiah/icons8-node-js-48.png"/> / Express.js <img src="https://github.com/Zeiah/Zeiah/icons8-express-js-48.png"/> / MongoDB <img src="https://github.com/Zeiah/Zeiah/icons8-mongodb-48.png"/> </li>
 
 **Mes projets**
 * PortFolio : mon site web personnel
