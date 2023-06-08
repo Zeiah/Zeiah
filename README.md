@@ -5,13 +5,13 @@
 - 📫 How to reach me: https://www.linkedin.com/in/margot-salsmann/ 
 - ⚡ Fun fact: i'm Doctor in Language Sciences
 
-**🕸 Stack technique 🕸**
-- HTML <img src="./icons8-html-48.png"> /  CSS <img src="./icons8-css-48.png"/> / Sass <img src="./icons8-sass-48.png"/> / JavaScript <img src="./icons8-javascript-48.png"/> / React.js <img src="./icons8-react-js-48.png"/> / Node.js <img src="./icons8-node-js-48.png"/> / Express.js <img src="./icons8-express-js-48.png"/> / MongoDB <img src="./icons8-mongodb-48.png"/>
+**🕸 Stack technique 🕸** <br>
+HTML <img src="./icons8-html-48.png"> /  CSS <img src="./icons8-css-48.png"/> / Sass <img src="./icons8-sass-48.png"/> / JavaScript <img src="./icons8-javascript-48.png"/> / React.js <img src="./icons8-react-js-48.png"/> / Node.js <img src="./icons8-node-js-48.png"/> / Express.js <img src="./icons8-express-js-48.png"/> / MongoDB <img src="./icons8-mongodb-48.png"/>
 
 ### Mes projets 🤖
 * PortFolio : mon site web personnel
 * Bac-à-sable : jeu du pendu > Les mots invariables du Ce2 (JavaScript)
-* OpenClassrooms Projet 6: Kasa > Construction d'une application de location immobilière (React)
+* OpenClassrooms Projet 6: Kasa > Construction d'une application de location immobilière (React, Sass)
 * OpenClassrooms Projet 5: Piiquante > Construction d'une API sécurisée pour un site d'avis gastonomiques (Node.js, Express.js, MongoDB)
 * OpenClassrooms Projet 5: Kanap > Implémenter les fonctionnalités d'un site de e-commerce de manière dynamique (JavaScript)
 * OpenClassrooms Projet 4: La Panthère > Optimisation d'un site de web design (SEO)
