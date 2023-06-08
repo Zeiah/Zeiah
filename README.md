@@ -19,6 +19,7 @@
 * OpenClassrooms Projet 3: OhMyFood! > Intégration de la maquette d'un site répertoriant les menus de restaurants (html, css, Sass)
   * 📍 <span> Voir Page Gihub de </span> <a href="https://zeiah.github.io/Zeiah_OC_P3_Ohmyfood_github.io/index.html">Oh my Food!</a>
 * OpenClassrooms Projet 2: Booki > Intégration de la maquette d'un site d'hébergements et d'activités (html, css)
+  * 📍 <span> Voir Page Gihub de </span> <a href="https://zeiah.github.io/Zeiah_OC_P2_Booki_github.io/index.html">Booki</a> 
  
 
 
