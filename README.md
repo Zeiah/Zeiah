@@ -11,6 +11,7 @@ HTML <img src="./icons8-html-48.png"> /  CSS <img src="./icons8-css-48.png"/> / 
 ### Mes projets 🤖
 * PortFolio : mon site web personnel
 * Bac-à-sable : jeu du pendu > Les mots invariables du Ce2 (JavaScript)
+  * 📍 <span> voir Page Gihub du <a href="https://zeiah.github.io/Zeiah_Bac-a-sable_Jeu_LePendu_github.io/">jeu du pendu</a>
 * OpenClassrooms Projet 6: Kasa > Construction d'une application de location immobilière (React, Sass)
 * OpenClassrooms Projet 5: Piiquante > Construction d'une API sécurisée pour un site d'avis gastonomiques (Node.js, Express.js, MongoDB)
 * OpenClassrooms Projet 5: Kanap > Implémenter les fonctionnalités d'un site de e-commerce de manière dynamique (JavaScript)
