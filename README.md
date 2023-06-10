@@ -6,7 +6,7 @@
 - ⚡ Fun fact: i'm Doctor in Language Sciences
 
 **🕸 Stack technique 🕸** <br>
-HTML <img src="./icons8-html-48.png"> /  CSS <img src="./icons8-css-48.png"/> / Sass <img src="./icons8-sass-48.png"/> / JavaScript <img src="./icons8-javascript-48.png"/> / React.js <img src="./icons8-react-js-48.png"/> / Node.js <img src="./icons8-node-js-48.png"/> / Express.js <img src="./icons8-express-js-48.png"/> / MongoDB <img src="./icons8-mongodb-48.png"/>
+HTML <img src="./icons8-html-48.png" width="35px"> /  CSS <img src="./icons8-css-48.png"/> / Sass <img src="./icons8-sass-48.png"/> / JavaScript <img src="./icons8-javascript-48.png"/> / React.js <img src="./icons8-react-js-48.png"/> / Node.js <img src="./icons8-node-js-48.png"/> / Express.js <img src="./icons8-express-js-48.png"/> / MongoDB <img src="./icons8-mongodb-48.png"/>
 
 ### Mes projets 🤖
 * PortFolio : mon site web personnel
