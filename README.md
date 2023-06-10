@@ -17,9 +17,9 @@ HTML<img src="./icons8-html-48.png" width="20px"> CSS<img src="./icons8-css-48.p
 * OpenClassrooms Projet 5: Kanap > Implémenter les fonctionnalités d'un site de e-commerce de manière dynamique (JavaScript<img src="./icons8-javascript-48.png" width="20px"/>)
 * OpenClassrooms Projet 4: La Panthère > Optimisation d'un site de web design (SEO)
   * 📍 <span> Voir Page Gihub de </span> <a href="https://zeiah.github.io/Zeiah_OC_P4_LaPanthere_avant_github.io/index.html"> La Panthère avant</a> <span> et </span> <a href="https://zeiah.github.io/Zeiah_OC_P4_LaPanthere_optimisation_github.io/"> après optimisation</a> 
-* OpenClassrooms Projet 3: OhMyFood! > Intégration de la maquette d'un site répertoriant les menus de restaurants (html, css, Sass<img src="./icons8-sass-48.png" width="20px"/>)
+* OpenClassrooms Projet 3: OhMyFood! > Intégration de la maquette d'un site répertoriant les menus de restaurants (html<img src="./icons8-html-48.png" width="20px">, Sass<img src="./icons8-sass-48.png" width="20px"/>)
   * 📍 <span> Voir Page Gihub de </span> <a href="https://zeiah.github.io/Zeiah_OC_P3_Ohmyfood_github.io/index.html">Oh my Food!</a>
-* OpenClassrooms Projet 2: Booki > Intégration de la maquette d'un site d'hébergements et d'activités (html, css)
+* OpenClassrooms Projet 2: Booki > Intégration de la maquette d'un site d'hébergements et d'activités (html<img src="./icons8-html-48.png" width="20px">, css<img src="./icons8-css-48.png" width="20px"/>)
   * 📍 <span> Voir Page Gihub de </span> <a href="https://zeiah.github.io/Zeiah_OC_P2_Booki_github.io/index.html">Booki</a> 
  
 
