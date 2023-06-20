@@ -20,7 +20,7 @@ HTML<img src="./icons8-html-48.png" width="20px"> CSS<img src="./icons8-css-48.p
 * OpenClassrooms Projet 3: OhMyFood! > Intégration de la maquette d'un site répertoriant les menus de restaurants (html<img src="./icons8-html-48.png" width="20px">, Sass<img src="./icons8-sass-48.png" width="20px"/>)
   * 📍 <span> Voir Page Gihub de </span> <a href="https://zeiah.github.io/Zeiah_OC_P3_Ohmyfood_github.io/index.html">Oh my Food!</a>
 * OpenClassrooms Projet 2: Booki > Intégration de la maquette d'un site d'hébergements et d'activités (html<img src="./icons8-html-48.png" width="20px">, css<img src="./icons8-css-48.png" width="20px"/>)
-  * 📍 <span> Voir Page Gihub de </span> <a href="https://zeiah.github.io/Zeiah_OC_P2_Booki_github.io/index.html">Booki</a> 
+  * 📍 <span> Voir Page Gihub de </span> <a href="https://zeiah.github.io/OC_P2_Booki_github.io/">Booki</a> 
  
 
 
