@@ -24,7 +24,7 @@ HTML<img src="./icons8-html-48.png" width="20px"> CSS<img src="./icons8-css-48.p
     <h3>Projet 5: Piiquante - Construction d'une API sécurisée pour un site d'avis gastonomiques <img src="./icons8-node-js-48.png" width="30px"/> <img src="./icons8-express-js-48.png" width="30px"/> <img src="./icons8-mongodb-48.png" width="30px"/></h3>
     <h3>Projet 5: Kanap - Implémenter les fonctionnalités d'un site de e-commerce de manière dynamique <img src="./icons8-javascript-48.png" width="30px"/></h3>
     <h3>Projet 4: La Panthère - Optimisation d'un site de web design (SEO)</h3>📍 <span> Page </span> <a href="https://zeiah.github.io/Zeiah_OC_P4_LaPanthere_avant_github.io/index.html"> La Panthère avant</a><span> et </span> <a href="https://zeiah.github.io/Zeiah_OC_P4_LaPanthere_optimisation_github.io/">après</a> 
-    <h3>Projet 3: OhMyFood! - Intégration de la maquette d'un site répertoriant les menus de restaurants <img src="./icons8-html-48.png" width="30px"> <img src="./icons8-sass-48.png" width="30px"/></h3>📍 <span> Page</span><a href="https://zeiah.github.io/Zeiah_OC_P3_Ohmyfood_github.io/index.html">Oh my Food!</a>
+    <h3>Projet 3: OhMyFood! - Intégration de la maquette d'un site répertoriant les menus de restaurants <img src="./icons8-html-48.png" width="30px"> <img src="./icons8-sass-48.png" width="30px"/></h3>📍 <span> Page </span><a href="https://zeiah.github.io/Zeiah_OC_P3_Ohmyfood_github.io/index.html">Oh my Food!</a>
     <h3>Projet 2: Booki - Intégration de la maquette d'un site d'hébergements et d'activités <img src="./icons8-html-48.png" width="30px"> <img src="./icons8-css-48.png" width="30px"/></h3> 📍 <span>Page </span><a href="https://zeiah.github.io/OC_P2_Booki_github.io/">Booki</a> 
  
 
