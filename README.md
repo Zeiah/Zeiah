@@ -9,12 +9,12 @@
 HTML<img src="./icons8-html-48.png" width="20px"> CSS<img src="./icons8-css-48.png" width="20px"/> Sass<img src="./icons8-sass-48.png" width="20px"/> JavaScript<img src="./icons8-javascript-48.png" width="20px"/> React.js<img src="./icons8-react-js-48.png" width="20px"/> Node.js<img src="./icons8-node-js-48.png" width="20px"/> Express.js<img src="./icons8-express-js-48.png" width="20px"/> MongoDB<img src="./icons8-mongodb-48.png" width="20px"/>
 
 
-### Mes projets 🤖
+### <h1 font-size="18px">Mes projets 🤖 </h1>
 
 **PortFolio : mon site web personnel** <br>
 
-**Formation Udemy : 20 projets JavaScript** <br>
-  * Projet 1 : calcul d'IMC JavaScript <img src="./icons8-javascript-48.png" width="20px"/>
+**Formation Udemy : 20 projets JavaScript <img src="./icons8-javascript-48.png" width="20px"/>** <br>
+  * Projet 1 : calcul d'IMC JavaScript 
 
 **Bac-à-sable : jeu du pendu** (JavaScript<img src="./icons8-javascript-48.png" width="20px"/>) <br>
    > 📍 <span> voir Page Gihub du <a href="https://zeiah.github.io/Zeiah_Bac-a-sable_Jeu_LePendu_github.io/">jeu du pendu</a>
