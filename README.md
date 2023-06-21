@@ -12,7 +12,7 @@ HTML<img src="./icons8-html-48.png" width="20px"> CSS<img src="./icons8-css-48.p
 ### <h1 font-size="18px">Mes projets 🤖 </h1>
 
 **<h2>PortFolio : mon site web personnel</h2>**
-**<h2>Formation Udemy : 20 projets JavaScript <img src="./icons8-javascript-48.png" width="20px"/></h2>**
+**<h2>Formation Udemy : 20 projets JavaScript <img src="./icons8-javascript-48.png" width="40px"/></h2>**
     <h3>Projet 1 : calcul d'IMC JavaScript</h3>
 **<h2>Bac-à-sable</h2>**
     <h3>Le jeu du pendu: les mots invariables <img src="./icons8-javascript-48.png" width="30px"/></h3>
