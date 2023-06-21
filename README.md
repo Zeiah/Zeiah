@@ -9,11 +9,11 @@
 HTML<img src="./icons8-html-48.png" width="20px"> CSS<img src="./icons8-css-48.png" width="20px"/> Sass<img src="./icons8-sass-48.png" width="20px"/> JavaScript<img src="./icons8-javascript-48.png" width="20px"/> React.js<img src="./icons8-react-js-48.png" width="20px"/> Node.js<img src="./icons8-node-js-48.png" width="20px"/> Express.js<img src="./icons8-express-js-48.png" width="20px"/> MongoDB<img src="./icons8-mongodb-48.png" width="20px"/>
 
 ### Mes projets 🤖
-** PortFolio : mon site web personnel
-** Formation Udemy : 20 projets JavaScript
+** PortFolio : mon site web personnel ** <br>
+** Formation Udemy : 20 projets JavaScript ** <br>
   * Projet 1 : calcul d'IMC
-** Bac-à-sable : jeu du pendu > Les mots invariables du Ce2 (JavaScript<img src="./icons8-javascript-48.png" width="20px"/>)
-> 📍 <span> voir Page Gihub du <a href="https://zeiah.github.io/Zeiah_Bac-a-sable_Jeu_LePendu_github.io/">jeu du pendu</a>
+** Bac-à-sable : jeu du pendu ** Les mots invariables du Ce2 (JavaScript<img src="./icons8-javascript-48.png" width="20px"/>)
+  > 📍 <span> voir Page Gihub du <a href="https://zeiah.github.io/Zeiah_Bac-a-sable_Jeu_LePendu_github.io/">jeu du pendu</a>
 ** Formation OpenClassrooms : Développeur Web
   * Projet 6: Kasa > Construction d'une application de location immobilière (React<img src="./icons8-react-js-48.png" width="20px"/>, Sass<img src="./icons8-sass-48.png" width="20px"/>)
   * Projet 5: Piiquante > Construction d'une API sécurisée pour un site d'avis gastonomiques (Node.js<img src="./icons8-node-js-48.png" width="20px"/>, Express.js<img src="./icons8-express-js-48.png" width="20px"/>, MongoDB<img src="./icons8-mongodb-48.png" width="20px"/>)
