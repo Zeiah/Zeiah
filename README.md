@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my personnal web site and on various (little) projects
 - 🌱 I’m currently learning JavaScript and React.
-- 📫 How to reach me: https://www.linkedin.com/in/margot-salsmann/ 
+- 📫 How to reach me:  
 - ⚡ Fun fact: i'm Doctor in Language Sciences
 
 **🕸 Stack technique 🕸** <br>
